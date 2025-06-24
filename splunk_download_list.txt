@@ -2,6 +2,7 @@ https://download.splunk.com/products/splunk/releases/6.2.1/linux/splunk-6.2.1-24
 https://download.splunk.com/products/splunk/releases/6.2.1/windows/splunk-6.2.1-245427-x64-release.msi
 https://download.splunk.com/products/splunk/releases/6.2.5/linux/splunk-6.2.5-272645-Linux-x86_64.tgz
 https://download.splunk.com/products/splunk/releases/6.2.5/windows/splunk-6.2.5-272645-x64-release.msi
+
 https://download.splunk.com/products/splunk/releases/6.3.0/linux/splunk-6.3.0-aa7d4b1ccb80-Linux-x86_64.tgz
 https://download.splunk.com/products/splunk/releases/6.3.0/windows/splunk-6.3.0-aa7d4b1ccb80-x64-release.msi
 https://download.splunk.com/products/splunk/releases/6.6.8/linux/splunk-6.6.8-6c27a8439c1e-Linux-x86_64.tgz
@@ -60,6 +61,11 @@ https://download.splunk.com/products/universalforwarder/releases/6.1.14/windows/
 https://download.splunk.com/products/universalforwarder/releases/6.2.8/windows/splunkforwarder-6.2.8-275559-windows-32.zip
 https://download.splunk.com/products/universalforwarder/releases/6.2.8/windows/splunkforwarder-6.2.8-275559-windows-64.zip
 https://download.splunk.com/products/universalforwarder/releases/6.2.9/windows/splunkforwarder-6.2.9-276372-windows-32.zip
+#New
+https://download.splunk.com/products/universalforwarder/releases/6.2.12/windows/splunkforwarder-6.2.12-277845-x86-release.msi
+https://download.splunk.com/products/universalforwarder/releases/6.2.12/windows/splunkforwarder-6.2.12-277845-x64-release.msi
+https://download.splunk.com/products/universalforwarder/releases/6.2.13/windows/splunkforwarder-6.2.13-278211-x86-release.msi
+https://download.splunk.com/products/universalforwarder/releases/6.2.13/windows/splunkforwarder-6.2.13-278211-x64-release.msi
 https://download.splunk.com/products/universalforwarder/releases/6.6.2/windows/splunkforwarder-6.6.2-4b804538c686-x86-release.msi
 https://download.splunk.com/products/universalforwarder/releases/6.6.2/windows/splunkforwarder-6.6.2-4b804538c686-x86-release.msi
 #New
