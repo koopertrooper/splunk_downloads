@@ -307,7 +307,7 @@ https://download.splunk.com/products/universalforwarder/releases/9.4.2/solaris/s
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/solaris/splunkforwarder-9.4.2-ec45dd264916-solaris-sparc.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/windows/splunkforwarder-9.4.2-ec45dd264916-windows-x86.msi
 
-https://download.splunk.com/products/universalforwarder/releases/9.4.3/windows/splunkforwarder-9.4.3-2ce54eec4eeb-windows-x86.ms
+https://download.splunk.com/products/universalforwarder/releases/9.4.3/windows/splunkforwarder-9.4.3-2ce54eec4eeb-windows-x86.msi
 https://download.splunk.com/products/universalforwarder/releases/9.4.3/windows/splunkforwarder-9.4.3-237ebbd22314-windows-x64.msi
 https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-2ce54eec4eeb-linux-ppc64le.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-237ebbd22314-linux-arm64.tgz
