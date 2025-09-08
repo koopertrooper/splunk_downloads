@@ -124,6 +124,7 @@ https://download.splunk.com/products/splunk/releases/9.4.3/windows/splunk-9.4.3-
 
 https://download.splunk.com/products/universalforwarder/releases/4.3.3/linux/splunkforwarder-4.3.3-128297-linux-2.6-amd64.deb
 https://download.splunk.com/products/universalforwarder/releases/4.3.3/linux/splunkforwarder-4.3.3-128297-Linux-x86_64.tgz
+https://download.splunk.com/products/universalforwarder/releases/4.3.3/windows/splunkforwarder-4.3.3-128297-x86-release.msi
 
 https://download.splunk.com/products/universalforwarder/releases/5.0.17/windows/splunkforwarder-5.0.17-278023-x64-release.zip
 https://download.splunk.com/products/universalforwarder/releases/5.0.17/windows/splunkforwarder-5.0.17-278023-x86-release.zip
