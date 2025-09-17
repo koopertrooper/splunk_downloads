@@ -123,7 +123,7 @@ https://download.splunk.com/products/splunk/releases/9.4.3/windows/splunk-9.4.3-
 
 
 
-#Universal forwarders
+#Universal forwarders - https://www.splunk.com/en_us/download/universal-forwarder.html
 
 https://download.splunk.com/products/universalforwarder/releases/4.3.3/linux/splunkforwarder-4.3.3-128297-linux-2.6-amd64.deb
 https://download.splunk.com/products/universalforwarder/releases/4.3.3/linux/splunkforwarder-4.3.3-128297-Linux-x86_64.tgz
@@ -319,7 +319,8 @@ https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/spl
 https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-237ebbd22314-linux-arm64.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-237ebbd22314-linux-amd64.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-2ce54eec4eeb-linux-s390x.tgz
-
-
+https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-237ebbd22314-linux-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/9.4.3/linux/splunkforwarder-9.4.3-237ebbd22314.x86_64.rpm
+https://download.splunk.com/products/universalforwarder/releases/9.4.4/linux/splunkforwarder-9.4.4-f627d88b766b.x86_64.rpm
 
 
