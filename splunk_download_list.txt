@@ -117,7 +117,9 @@ https://download.splunk.com/products/splunk/releases/9.4.2/linux/splunk-9.4.2-e9
 https://download.splunk.com/products/splunk/releases/9.4.2/linux/splunk-9.4.2-e9664af3d956.x86_64.rpm
 https://download.splunk.com/products/splunk/releases/9.4.2/osx/splunk-9.4.2-e9664af3d956-darwin-intel.tgz
 https://download.splunk.com/products/splunk/releases/9.4.3/linux/splunk-9.4.3-237ebbd22314-linux-amd64.tgz
+https://download.splunk.com/products/splunk/releases/9.4.3/linux/splunk-9.4.3-237ebbd22314.x86_64.rpm
 https://download.splunk.com/products/splunk/releases/9.4.3/windows/splunk-9.4.3-237ebbd22314-windows-x64.msi
+
 
 
 #Universal forwarders
