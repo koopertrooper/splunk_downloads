@@ -101,6 +101,7 @@ https://download.splunk.com/products/splunk/releases/9.3.2/windows/splunk-9.3.2-
 https://download.splunk.com/products/splunk/releases/9.3.2/linux/splunk-9.3.2-d8bb32809498-Linux-x86_64.tgz
 https://download.splunk.com/products/splunk/releases/9.3.3/windows/splunk-9.3.3-75595d8f83ef-x64-release.msi
 https://download.splunk.com/products/splunk/releases/9.3.3/linux/splunk-9.3.3-75595d8f83ef-Linux-x86_64.tgz
+https://download.splunk.com/products/splunk/releases/9.3.3/linux/splunk-9.3.3-75595d8f83ef.x86_64.rpm
 https://download.splunk.com/products/splunk/releases/9.3.4/windows/splunk-9.3.4-30e72d3fb5f7-x64-release.msi
 https://download.splunk.com/products/splunk/releases/9.3.4/linux/splunk-9.3.4-30e72d3fb5f7-Linux-x86_64.tgz
 https://download.splunk.com/products/splunk/releases/9.3.5/windows/splunk-9.3.5-9848f25c9430-x64-release.msi
