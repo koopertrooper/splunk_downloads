@@ -262,6 +262,7 @@ https://download.splunk.com/products/universalforwarder/releases/9.3.3/linux/spl
 https://download.splunk.com/products/universalforwarder/releases/9.3.3/linux/splunkforwarder-9.3.3-740e48416363-Linux-s390x.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.3.3/linux/splunkforwarder-9.3.3-740e48416363.ppc64le.rpm
 https://download.splunk.com/products/universalforwarder/releases/9.3.3/linux/splunkforwarder-9.3.3-740e48416363.s390x.rpm
+https://download.splunk.com/products/universalforwarder/releases/9.3.4/linux/splunkforwarder-9.3.4-30e72d3fb5f7-Linux-x86_64.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.3.3/solaris/splunkforwarder-9.3.3-740e48416363-SunOS-sparc.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.3.3/solaris/splunkforwarder-9.3.3-740e48416363-SunOS-x86_64.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.3.3/windows/splunkforwarder-9.3.3-740e48416363-x86-release.msi
@@ -311,6 +312,7 @@ https://download.splunk.com/products/universalforwarder/releases/9.4.2/linux/spl
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/linux/splunkforwarder-9.4.2-ec45dd264916-linux-s390x.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/linux/splunkforwarder-9.4.2-ec45dd264916.ppc64le.rpm
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/linux/splunkforwarder-9.4.2-ec45dd264916.s390x.rpm
+https://download.splunk.com/products/universalforwarder/releases/9.4.2/linux/splunkforwarder-9.4.2-e9664af3d956-linux-amd64.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/solaris/splunkforwarder-9.4.2-ec45dd264916-solaris-amd64.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/solaris/splunkforwarder-9.4.2-ec45dd264916-solaris-sparc.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.4.2/windows/splunkforwarder-9.4.2-ec45dd264916-windows-x86.msi
