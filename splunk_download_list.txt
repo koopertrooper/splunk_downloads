@@ -1,6 +1,10 @@
 #Full Installs (universal forwarders are half way doen this list!)
 
 https://www.splunk.com/en_us/download/splunk-enterprise.html
+https://www.splunk.com/en_us/download/previous-releases.html
+https://www.splunk.com/en_us/download/previous-releases-universal-forwarder.html
+
+
 
 #You can use the build numbers to generate a download url.
 #If you google search and someone mentions the build number you can figure out the url. These ones below have been found, generated or tested.
@@ -238,6 +242,7 @@ https://download.splunk.com/products/universalforwarder/releases/9.3.0/linux/spl
 https://download.splunk.com/products/universalforwarder/releases/9.3.0/solaris/splunkforwarder-9.3.0-aa2a96a59f7e-SunOS-sparc.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.3.0/solaris/splunkforwarder-9.3.0-aa2a96a59f7e-SunOS-x86_64.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/9.3.0/windows/splunkforwarder-9.3.0-aa2a96a59f7e-x86-release.msi
+https://download.splunk.com/products/universalforwarder/releases/9.3.0/windows/splunkforwarder-9.3.0-51ccf43db5bd-x64-release.msi
 https://download.splunk.com/products/universalforwarder/releases/9.3.1/aix/splunkforwarder-9.3.1-ee2724eb9973-AIX-powerpc.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.3.1/linux/splunkforwarder-9.3.1-ee2724eb9973-Linux-ppc64le.tgz
 https://download.splunk.com/products/universalforwarder/releases/9.3.1/linux/splunkforwarder-9.3.1-ee2724eb9973-Linux-s390x.tgz
