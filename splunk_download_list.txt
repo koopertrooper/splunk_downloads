@@ -196,7 +196,7 @@ https://download.splunk.com/products/universalforwarder/releases/8.0.3/linux/spl
 
 https://download.splunk.com/products/universalforwarder/releases/8.0.4/solaris/splunkforwarder-8.0.4-767223ac207f-SunOS-x86_64.tar.Z
 
-https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunk-8.0.5-a1a6394cc5ae-Linux-x86_64.tgz (Note: This looks like a mistake build by splunk in that the file name is incorrect for the splunk instance that is contained inside. This is why the normal url to the 8.0.5 UF never worked.)
+https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunkforwarder-8.0.5-a1a6394cc5ae-Linux-x86_64.tgz
 https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunkforwarder-8.0.5-a1a6394cc5ae-linux-2.6-x86_64.rpm
 https://download.splunk.com/products/universalforwarder/releases/8.0.5/windows/splunkforwarder-8.0.5-a1a6394cc5ae-x64-release.msi
 https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunkforwarder-8.0.5-a1a6394cc5ae-linux-2.6-x86_64.tgz
