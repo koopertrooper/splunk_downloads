@@ -199,7 +199,8 @@ https://download.splunk.com/products/universalforwarder/releases/8.0.4/solaris/s
 https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunkforwarder-8.0.5-a1a6394cc5ae-Linux-x86_64.tgz
 https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunkforwarder-8.0.5-a1a6394cc5ae-linux-2.6-x86_64.rpm
 https://download.splunk.com/products/universalforwarder/releases/8.0.5/windows/splunkforwarder-8.0.5-a1a6394cc5ae-x64-release.msi
-https://download.splunk.com/products/universalforwarder/releases/8.0.5/linux/splunkforwarder-8.0.5-a1a6394cc5ae-linux-2.6-x86_64.tgz
+https://download.splunk.com/products/universalforwarder/releases/8.0.5/windows/splunkforwarder-8.0.5-a1a6394cc5ae-x86-release.msi
+
 
 https://download.splunk.com/products/universalforwarder/releases/8.2.0/linux/splunkforwarder-8.2.0-e053ef3c985f-Linux-x86_64.tgz
 https://download.splunk.com/products/universalforwarder/releases/8.2.0/windows/splunkforwarder-8.2.0-e053ef3c985f-x64-release.msi
