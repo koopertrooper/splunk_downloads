@@ -1,4 +1,4 @@
-#Full Installs (universal forwarders are half way doen this list!)
+#Full Installs (universal forwarders are half way down this list!)
 
 https://www.splunk.com/en_us/download/splunk-enterprise.html
 https://www.splunk.com/en_us/download/previous-releases.html
