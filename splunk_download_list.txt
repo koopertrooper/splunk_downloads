@@ -127,7 +127,20 @@ https://download.splunk.com/products/splunk/releases/9.4.3/linux/splunk-9.4.3-23
 https://download.splunk.com/products/splunk/releases/9.4.3/linux/splunk-9.4.3-237ebbd22314.x86_64.rpm
 https://download.splunk.com/products/splunk/releases/9.4.3/windows/splunk-9.4.3-237ebbd22314-windows-x64.msi
 
+https://download.splunk.com/products/splunk/releases/10.2.0/windows/splunk-10.2.0-d749cb17ea65-windows-x64.msi
+https://download.splunk.com/products/splunk/releases/10.2.1/windows/splunk-10.2.1-c892b66d163d-windows-x64.msi
 
+https://download.splunk.com/products/splunk/releases/10.2.2/windows/splunk-10.2.2-80b90d638de6-windows-x64.msi
+https://download.splunk.com/products/splunk/releases/10.2.2/linux/splunk-10.2.2-80b90d638de6-linux-amd64.tgz
+https://download.splunk.com/products/splunk/releases/10.2.2/linux/splunk-10.2.2-80b90d638de6.x86_64.rpm
+https://download.splunk.com/products/splunk/releases/10.2.2/linux/splunk-10.2.2-80b90d638de6-linux-amd64.deb
+
+https://download.splunk.com/products/splunk/releases/10.2.3/windows/splunk-10.2.3-4d61cf8a5c0c-windows-x64.msi
+https://download.splunk.com/products/splunk/releases/10.2.3/linux/splunk-10.2.3-4d61cf8a5c0c.x86_64.rpm
+https://download.splunk.com/products/splunk/releases/10.2.3/linux/splunk-10.2.3-4d61cf8a5c0c-linux-amd64.tgz
+https://download.splunk.com/products/splunk/releases/10.2.3/linux/splunk-10.2.3-4d61cf8a5c0c-linux-amd64.deb
+https://download.splunk.com/products/splunk/releases/10.2.3/osx/splunk-10.2.3-4d61cf8a5c0c-darwin-intel.tgz
+https://download.splunk.com/products/splunk/releases/10.2.3/osx/splunk-10.2.3-4d61cf8a5c0c-darwin-intel.dmg
 
 #Universal forwarders - https://www.splunk.com/en_us/download/universal-forwarder.html
 
