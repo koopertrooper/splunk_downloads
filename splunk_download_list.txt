@@ -7,7 +7,6 @@ https://www.splunk.com/en_us/download/previous-releases-universal-forwarder.html
 #If you google search and someone mentions the build number you can figure out the url. These ones below have been found, generated or tested.
 #Example look for "splunkforwarder-4.3.3" then look for pages that mention the build id. Example. "splunkforwarder-4.3.3-128297"
 Some additional buildfile name can be found here : github.com/anthonygtellez/splunkforsccm/tree/master/splunkforwarder_6.3.3-x86
-
 https://download.splunk.com/products/splunk/releases/6.2.1/linux/splunk-6.2.1-245427-Linux-x86_64.tgz
 https://download.splunk.com/products/splunk/releases/6.2.1/windows/splunk-6.2.1-245427-x64-release.msi
 https://download.splunk.com/products/splunk/releases/6.2.5/linux/splunk-6.2.5-272645-Linux-x86_64.tgz
@@ -289,7 +288,6 @@ https://download.splunk.com/products/splunk/releases/10.2.3/linux/splunk-10.2.3-
 https://download.splunk.com/products/splunk/releases/10.2.3/linux/splunk-10.2.3-4d61cf8a5c0c.x86_64.rpm
 https://download.splunk.com/products/splunk/releases/10.2.3/osx/splunk-10.2.3-4d61cf8a5c0c-darwin-intel.tgz
 https://download.splunk.com/products/splunk/releases/10.2.3/osx/splunk-10.2.3-4d61cf8a5c0c-darwin-intel.dmg
-
 #Universal forwarders - https://www.splunk.com/en_us/download/universal-forwarder.html
 https://download.splunk.com/products/universalforwarder/releases/4.3.3/linux/splunkforwarder-4.3.3-128297-linux-2.6-amd64.deb
 https://download.splunk.com/products/universalforwarder/releases/4.3.3/linux/splunkforwarder-4.3.3-128297-Linux-x86_64.tgz
@@ -300,7 +298,7 @@ https://download.splunk.com/products/universalforwarder/releases/6.1.14/windows/
 https://download.splunk.com/products/universalforwarder/releases/6.2.8/windows/splunkforwarder-6.2.8-275559-windows-32.zip
 https://download.splunk.com/products/universalforwarder/releases/6.2.8/windows/splunkforwarder-6.2.8-275559-windows-64.zip
 https://download.splunk.com/products/universalforwarder/releases/6.2.9/windows/splunkforwarder-6.2.9-276372-windows-32.zip
-
+#New
 https://download.splunk.com/products/universalforwarder/releases/6.2.12/windows/splunkforwarder-6.2.12-277845-x86-release.msi
 https://download.splunk.com/products/universalforwarder/releases/6.2.12/windows/splunkforwarder-6.2.12-277845-x64-release.msi
 https://download.splunk.com/products/universalforwarder/releases/6.2.13/windows/splunkforwarder-6.2.13-278211-x86-release.msi
@@ -310,7 +308,7 @@ https://download.splunk.com/products/universalforwarder/releases/6.3.3/linux/spl
 https://download.splunk.com/products/universalforwarder/releases/6.4.1/windows/splunkforwarder-6.4.1-debde650d26e-x64-release.msi
 https://download.splunk.com/products/universalforwarder/releases/6.4.1/linux/splunkforwarder-6.4.1-debde650d26e-Linux-x86_64.tgz
 https://download.splunk.com/products/universalforwarder/releases/6.5.1/windows/splunkforwarder-6.5.1-f74036626f0c-x64-release.msi
-#Cant figure this one outhttps://download.splunk.com/products/universalforwarder/releases/6.5.1/linux/splunkforwarder-6.5.1-f74036626f0-linux-2.6-x86_64.tgz
+https://download.splunk.com/products/universalforwarder/releases/6.5.1/linux/splunkforwarder-6.5.1-f74036626f0c-linux-2.6-x86_64.tgz
 https://download.splunk.com/products/universalforwarder/releases/6.6.2/windows/splunkforwarder-6.6.2-4b804538c686-x86-release.msi
 https://download.splunk.com/products/universalforwarder/releases/6.6.4/linux/splunkforwarder-6.6.4-00895e76d346-linux-2.6-x86_64.rpm
 https://download.splunk.com/products/universalforwarder/releases/6.6.4/windows/splunkforwarder-6.6.4-00895e76d346-x86-release.msi
@@ -725,7 +723,7 @@ https://download.splunk.com/products/universalforwarder/releases/10.0.0/linux/sp
 https://download.splunk.com/products/universalforwarder/releases/10.0.0/solaris/splunkforwarder-10.0.0-e8eb0c4654f8-solaris-amd64.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/10.0.0/solaris/splunkforwarder-10.0.0-e8eb0c4654f8-solaris-sparc.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/10.0.0/windows/splunkforwarder-10.0.0-e8eb0c4654f8-windows-x64.msi
-https://download.splunk.com/products/universalforwarder/releases/10.0.0/windows/splunkforwarder-10.0.0-e8eb0c4654f8-windows-x86.msi
+https://download.splunk.com/products/universalforwarder/releases/10.0.0/windows/splunkforwarder-10.0.0-ea5bfadeac3a-windows-x86.msi
 https://download.splunk.com/products/universalforwarder/releases/10.0.1/aix/splunkforwarder-10.0.1-c486717c322b-aix-powerpc.tgz
 https://download.splunk.com/products/universalforwarder/releases/10.0.1/freebsd/splunkforwarder-10.0.1-c486717c322b-freebsd13-amd64.tgz
 https://download.splunk.com/products/universalforwarder/releases/10.0.1/freebsd/splunkforwarder-10.0.1-c486717c322b-freebsd13-amd64.txz
@@ -876,3 +874,49 @@ https://download.splunk.com/products/universalforwarder/releases/10.2.3/solaris/
 https://download.splunk.com/products/universalforwarder/releases/10.2.3/solaris/splunkforwarder-10.2.3-4d61cf8a5c0c-solaris-sparc.tar.Z
 https://download.splunk.com/products/universalforwarder/releases/10.2.3/windows/splunkforwarder-10.2.3-4d61cf8a5c0c-windows-x64.msi
 https://download.splunk.com/products/universalforwarder/releases/10.2.3/windows/splunkforwarder-10.2.3-4d61cf8a5c0c-windows-x86.msi
+
+https://download.splunk.com/products/splunk/releases/10.2.4/windows/splunk-10.2.4-e0bef04c9c8f-windows-x64.msi
+https://download.splunk.com/products/splunk/releases/10.2.4/linux/splunk-10.2.4-e0bef04c9c8f-linux-amd64.tgz
+https://download.splunk.com/products/splunk/releases/10.2.4/linux/splunk-10.2.4-e0bef04c9c8f-linux-amd64.deb
+https://download.splunk.com/products/splunk/releases/10.2.4/linux/splunk-10.2.4-e0bef04c9c8f.x86_64.rpm
+https://download.splunk.com/products/splunk/releases/10.2.4/osx/splunk-10.2.4-e0bef04c9c8f-darwin-intel.tgz
+https://download.splunk.com/products/splunk/releases/10.2.4/osx/splunk-10.2.4-e0bef04c9c8f-darwin-intel.dmg
+
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/aix/splunkforwarder-10.2.4-e0bef04c9c8f-aix-powerpc.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/freebsd/splunkforwarder-10.2.4-e0bef04c9c8f-freebsd13-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/freebsd/splunkforwarder-10.2.4-e0bef04c9c8f-freebsd13-amd64.txz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/freebsd/splunkforwarder-10.2.4-e0bef04c9c8f-freebsd14-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/freebsd/splunkforwarder-10.2.4-e0bef04c9c8f-freebsd14-amd64.txz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/linux/splunkforwarder-10.2.4-e0bef04c9c8f-linux-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/linux/splunkforwarder-10.2.4-e0bef04c9c8f-linux-ppc64le.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/linux/splunkforwarder-10.2.4-e0bef04c9c8f-linux-s390x.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/linux/splunkforwarder-10.2.4-e0bef04c9c8f.x86_64.rpm
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/linux/splunkforwarder-10.2.4-e0bef04c9c8f.ppc64le.rpm
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/linux/splunkforwarder-10.2.4-e0bef04c9c8f.s390x.rpm
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/solaris/splunkforwarder-10.2.4-e0bef04c9c8f-solaris-amd64.tar.Z
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/solaris/splunkforwarder-10.2.4-e0bef04c9c8f-solaris-sparc.tar.Z
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/windows/splunkforwarder-10.2.4-e0bef04c9c8f-windows-x64.msi
+https://download.splunk.com/products/universalforwarder/releases/10.2.4/windows/splunkforwarder-10.2.4-e0bef04c9c8f-windows-x86.msi
+
+https://download.splunk.com/products/splunk/releases/10.4.0/windows/splunk-10.4.0-f798d4d49089-windows-x64.msi
+https://download.splunk.com/products/splunk/releases/10.4.0/linux/splunk-10.4.0-f798d4d49089-linux-amd64.tgz
+https://download.splunk.com/products/splunk/releases/10.4.0/linux/splunk-10.4.0-f798d4d49089-linux-amd64.deb
+https://download.splunk.com/products/splunk/releases/10.4.0/linux/splunk-10.4.0-f798d4d49089.x86_64.rpm
+https://download.splunk.com/products/splunk/releases/10.4.0/osx/splunk-10.4.0-f798d4d49089-darwin-intel.tgz
+https://download.splunk.com/products/splunk/releases/10.4.0/osx/splunk-10.4.0-f798d4d49089-darwin-intel.dmg
+
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/aix/splunkforwarder-10.4.0-f798d4d49089-aix-powerpc.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/freebsd/splunkforwarder-10.4.0-f798d4d49089-freebsd13-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/freebsd/splunkforwarder-10.4.0-f798d4d49089-freebsd13-amd64.txz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/freebsd/splunkforwarder-10.4.0-f798d4d49089-freebsd14-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/freebsd/splunkforwarder-10.4.0-f798d4d49089-freebsd14-amd64.txz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/linux/splunkforwarder-10.4.0-f798d4d49089-linux-amd64.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/linux/splunkforwarder-10.4.0-f798d4d49089-linux-ppc64le.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/linux/splunkforwarder-10.4.0-f798d4d49089-linux-s390x.tgz
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/linux/splunkforwarder-10.4.0-f798d4d49089.x86_64.rpm
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/linux/splunkforwarder-10.4.0-f798d4d49089.ppc64le.rpm
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/linux/splunkforwarder-10.4.0-f798d4d49089.s390x.rpm
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/solaris/splunkforwarder-10.4.0-f798d4d49089-solaris-amd64.tar.Z
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/solaris/splunkforwarder-10.4.0-f798d4d49089-solaris-sparc.tar.Z
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/windows/splunkforwarder-10.4.0-f798d4d49089-windows-x64.msi
+https://download.splunk.com/products/universalforwarder/releases/10.4.0/windows/splunkforwarder-10.4.0-652ec96167cf-windows-x86.msi
